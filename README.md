@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christan Cone</h1>
-<h3 align="center">A Computer Science undergraduate from Uva Wellasa University (UWU) of Srilanka. Written my first code in my age of 15. Also learning Spanish & very enthusiastic about building a startup.</h3>
+<h3 align="center">A Computer Science undergraduate from Uva Wellasa University (UWU) of Srilanka. Written my first code in my age of 15. I can understand Spanish along with other programming languages too, lol </h3>
 
 - 🌱 I’m currently learning **Flutter & Machine learning**
 
